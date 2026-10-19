@@ -51,10 +51,7 @@ public class javaimc {
 			System.out.println("Seu imc é de " + imc + ", " + biotipo + "!");
 		}
 		
-		
-		
-		
-		
+
 
 	}
 
