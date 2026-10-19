@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Main {
+public class Main.Bhaskara.java {
     public static void main(String[] args) {
 
         while (true) {
