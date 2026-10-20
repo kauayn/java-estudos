@@ -1,6 +1,7 @@
-.java-estudos.iml
+
 bin/
 .settings/
 .project
 .classpath
+java-estudos.iml
 
