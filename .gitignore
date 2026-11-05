@@ -4,4 +4,5 @@ bin/
 .project
 .classpath
 java-estudos.iml
-
+.idea/
+.out/
